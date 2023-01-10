@@ -1,0 +1,127 @@
+*{
+    padding:0;
+    margin: 0;
+    
+}
+.start-img{
+    
+    position: absolute;
+    height: 800px;
+    z-index: -1;
+    width: 100%;
+}
+
+.faint{
+    color: white;
+    opacity: 70%;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+.first-button{
+    background-color: yellow;
+    /* border-radius: 20%; */
+    font-size: 25px;
+    border: none;
+    color: blue;
+    width: 250px;
+    /* padding-top: 2px;
+     */
+     margin-top: 20px;
+    font-weight: bolder;
+    
+}
+.whiti{
+    color: white;
+    padding-top: 2px;
+}
+.second-button{
+    width: 250px;
+    background-color: rgb(114, 50, 241);
+    opacity: 90%;
+    border: none;
+    font-size: 25px;
+    color:white;
+    font-weight: bolder;
+    
+}
+.child{
+    position: relative;
+    text-align: center;
+    padding-top: 600px;
+   
+}
+.inquiry{
+   background-color: rgb(92, 40, 223);
+   display: flex;
+   align-items: center;
+   /* text-align: center; */
+   justify-content: center;
+    /* margin: 25px ; */
+   
+   width: 100%;
+   height: 1500px;
+   
+    
+}
+.inquiry .first-button{
+    width: 100%; 
+}
+
+
+form{
+    padding-top: 10px;
+    color: white;
+    background-color: rgb(94, 68, 159);
+    margin-top: 25px;
+    width:70%;
+    /* opacity: 75%; */
+    
+
+}
+
+textarea{
+    width: 100%;
+    height: 100px;
+}
+.centrify{
+    display: flex;
+    align-items: center;
+    margin: 0px 10px;
+    justify-content: center;
+    text-align: center;
+    width: 75%;
+    /* margin:  auto 25px; */
+}
+
+select{
+    margin:0px 15px;
+}
+label{
+    margin:0px 15px;
+}
+.inpuut{
+    margin: 0px 15px ;
+    width: 90%;
+    /* border-radius: 25px; */
+    height: 35px;
+}
+
+.second{
+   
+    height: 400px;
+    background-color: rgb(94, 68, 159);
+    width: 100%;
+
+}
+
+
+.centrify button{
+    width: 90%;
+}
+
+.second-form{
+    width: 100%;
+}
+
+
